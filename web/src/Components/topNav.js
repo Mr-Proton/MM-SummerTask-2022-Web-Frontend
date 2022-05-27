@@ -10,7 +10,7 @@ export default function nav(){
             <ul className="nav-menu">
                 <li>Home</li>
                 <li>About</li>
-                <li>Trending articles</li>
+                <li>Trending</li>
                 <li>Contact</li>
             </ul>
         </div>
