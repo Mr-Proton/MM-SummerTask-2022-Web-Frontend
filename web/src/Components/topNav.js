@@ -8,10 +8,10 @@ export default function nav(){
             </div>
             <input className="search" type="text" placeholder="Search for articles"/>
             <ul className="nav-menu">
-                <li>Home</li>
-                <li>About</li>
-                <li>Trending</li>
-                <li>Contact</li>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Trending</a></li>
+                <li><a href="#">Contact</a></li>
             </ul>
         </div>
     )
