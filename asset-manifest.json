@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MM-SummerTask-2022-Web-Frontend/static/css/main.9e2cc30d.css",
-    "main.js": "/MM-SummerTask-2022-Web-Frontend/static/js/main.22580203.js",
+    "main.css": "/MM-SummerTask-2022-Web-Frontend/static/css/main.824c5cb6.css",
+    "main.js": "/MM-SummerTask-2022-Web-Frontend/static/js/main.68111876.js",
     "index.html": "/MM-SummerTask-2022-Web-Frontend/index.html",
-    "main.9e2cc30d.css.map": "/MM-SummerTask-2022-Web-Frontend/static/css/main.9e2cc30d.css.map",
-    "main.22580203.js.map": "/MM-SummerTask-2022-Web-Frontend/static/js/main.22580203.js.map"
+    "main.824c5cb6.css.map": "/MM-SummerTask-2022-Web-Frontend/static/css/main.824c5cb6.css.map",
+    "main.68111876.js.map": "/MM-SummerTask-2022-Web-Frontend/static/js/main.68111876.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e2cc30d.css",
-    "static/js/main.22580203.js"
+    "static/css/main.824c5cb6.css",
+    "static/js/main.68111876.js"
   ]
 }
