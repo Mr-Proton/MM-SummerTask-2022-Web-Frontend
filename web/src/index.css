@@ -175,3 +175,128 @@ input:focus {
   font-size: 25px;
   border-radius: 12px;
 }
+
+.signing-center{
+  display: flex;
+  justify-content: center;
+}
+
+.signing{
+  text-align: center;
+  max-width: max-content;
+  background-color: #21605d;
+  padding: 30px;
+  margin: 40px;
+  border-radius: 12px;
+  box-shadow: 0px 0px 10px #21605d;
+}
+
+.signing form{
+  display: flex;
+  flex-direction: column  ;
+}
+
+.signing h1{
+  margin-bottom: 20px;
+  font-size: 40px;
+}
+
+.user-input{
+  margin: 10px;
+}
+
+.user-input label{
+  position: relative;
+}
+
+.user-input input{
+  width: 100%;
+  background-color: #EAEBED;
+  padding-left: 10px;
+  color: black;
+  font-family: 'Poppins';
+  height: 30px;
+  border: none;
+  border-radius: 12px;
+}
+
+.user-input input:focus{
+  background-color: #87E1C7;
+  transition: 0.3s;
+}
+
+.submit{
+  width: 100px;
+  text-align: center;
+  height: 30px;
+  border: none;
+  border-radius: 12px;
+  font-family: 'Poppins';
+  color: #EAEBED;
+  background-color: #87E1C7;  
+  font-size: 20px;
+  font-weight: 500;
+}
+
+
+.submit-button{
+  display: flex;
+  justify-content: center;
+}
+
+.admin-panel{
+  width: 100%;
+  background-color: #21605d;
+  padding: 20px;
+  margin-top: 20px;  
+  border: none;
+  border-radius: 12px;
+}
+
+.admin-panel h2{
+  margin: 10px;
+}
+
+.para-input input{
+  width: 95%;
+  border: none;
+  border-radius: 12px;
+  height: auto;
+  min-height: 40px;
+  font-family: 'Poppins';
+  color: black;
+}
+
+.title-input input{
+  border: none;
+  border-radius: 12px;
+  min-height: 40px;
+  height: auto;
+  width: auto;
+  min-width: 200px;
+  font-family: 'Poppins';
+  color: black;
+}
+
+.title-input input:focus{
+  background-color: #fff;
+}
+
+.para-input input:focus{
+  background-color: #fff;
+}
+
+.new-article-button{
+  margin: 10px;
+  width: 20%;
+  height: 40px;
+  background-color: #87E1C7;
+  font-family: 'Poppins';
+  font-weight: 500;
+  border: none;
+  border-radius: 12px;
+  font-size: 20px;
+}
+
+
+

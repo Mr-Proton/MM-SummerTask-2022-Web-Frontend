@@ -7,6 +7,7 @@ import Trending from "./Components/Trending";
 import About from "./Components/About";
 import SignUp from './Components/SignUp'
 import Login from './Components/Login'
+import Admin from './Components/Admin'
 
 
 function App() {
@@ -22,7 +23,7 @@ function App() {
         <Route exact path="/about" element={<About />} />
         <Route exact path="/sign-up" element={<SignUp />} />
         <Route exact path="/login" element={<Login />} />
-
+        <Route exact path="/admin-panel" element={<Admin />} />
       </Routes>
     </div>
     </>
